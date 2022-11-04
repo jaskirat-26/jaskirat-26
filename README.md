@@ -2,7 +2,7 @@
 - 👀 I have always been interested in data. 
 - 🌱 I’m currently learning data analytics and working on machine learning.
 - 📫 How to reach me: gmail:  jaskiratsingh026@gmail.com
-- 
+- 📮LinkedIn Profile: https://www.linkedin.com/in/jaskirat-singh-672783228/
 
 <!---
 jaskirat-26/jaskirat-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
