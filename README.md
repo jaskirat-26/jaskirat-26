@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaskirat-26
-- 👀 I have always been interested in data. 
-- 🌱 I’m currently learning data analytics and working on machine learning.
+- 👀 I have always been interested in development. 
+- 🌱 I’m currently working on backend developmet in nodeJS.
 - 📫 How to reach me: gmail:  jaskiratsingh026@gmail.com
 - 📮LinkedIn Profile: https://www.linkedin.com/in/jaskirat-singh-672783228/
 
